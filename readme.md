@@ -38,9 +38,11 @@ After completing this assignment, you be able to effectively use
 
 ## Deliverables
 
-1. Comment with a link to Github Pages on the Issue that is assigned to you.
-2. Comment with a link to the Github Repo for this project
+1. Create a Fork of this Assignment's repo.
+2. Submit a pull request.
+3. Comment with a link to github pages for this project.
 
+**Keep in mind, Readme.md should not be the same readme. Fill it out with something new**
 
 ## Hard Mode
 
