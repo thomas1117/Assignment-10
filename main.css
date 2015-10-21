@@ -2,7 +2,10 @@
 #masterContainer {
 	width:500px;
 	position: relative;
-	border:2px solid black;
+	border:1px solid #E7E7E7;
+	border-radius:5px;
+	margin: auto;
+
 }
 
 #section1 {
@@ -10,10 +13,11 @@
 	position: relative;
 	padding:20px;
 	text-align: center;
-	background-color: blue;
-	border-bottom:1px solid black;
-	color:white;
-	
+	background-color: #E7E7E7;
+	border-bottom:1px solid #F7F7F7;
+	color:#707070;
+	font-weight:bold;
+	font-size: 20px;
 }
 
 #section2 {
@@ -21,10 +25,12 @@
 	position: relative;
 	padding:20px;
 	text-align: center;
-	background-color: blue;
-	border-bottom:1px solid black;
-	color:white;
-	
+	background-color: #E7E7E7;
+	border-bottom:1px solid #F7F7F7;
+	color:#707070;
+	font-weight:bold;
+	font-size: 20px;
+
 }
 
 #section3 {
@@ -32,27 +38,31 @@
 	position: relative;
 	padding:20px;
 	text-align: center;
-	background-color: blue;
-	border-bottom:1px solid black;
-	color:white;
-	
+	background-color:#E7E7E7;
+	color:#707070;
+	font-weight:bold;
+	font-size: 20px;
+
 }
 
   .content {
   	position:relative;
 	max-height:0;
 	overflow:hidden;
+	background-color: #F8F8F8;
+	color: #333333;
 	margin:0;
-	transition: max-height .5s;
+	padding-left:20px;
+	transition: max-height .2s;
 }
+
+
 
  .displayBlock  {
- 	max-height:140px;
-	transition: max-height 1.2s;
+ 	max-height:240px;
+	transition: max-height .8s;
 }
 
 
-.cancel {
-	max-height: 0px;
-	transition: max-height .5s;
-}
+
+
